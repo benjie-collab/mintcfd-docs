@@ -40,7 +40,7 @@
 	- Instrument Search
 	- News feed
 
-![](/_images/97a3d84e040d09a059bd6594dd40ae1d.png)
+![97a3d84e040d09a059bd6594dd40ae1d](/_images/97a3d84e040d09a059bd6594dd40ae1d.png "97a3d84e040d09a059bd6594dd40ae1d")
 
 # Instrument Details
 #### Trade
